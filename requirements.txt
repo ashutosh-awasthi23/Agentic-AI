@@ -1,1 +1,8 @@
-python-ipykernel
+ipykernel
+pypdf
+langchain_community
+bs4
+arxiv
+wikipedia
+fitz
+Pymupdf
