@@ -1,6 +1,8 @@
 ipykernel
 pypdf
-langchain_community
+langchain-community
+langchain_huggingface
+sentence_transformers
 bs4
 arxiv
 wikipedia
